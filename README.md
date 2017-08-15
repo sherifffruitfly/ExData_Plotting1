@@ -1,3 +1,8 @@
+### Student note
+I decided to architect the solution in FIVE files, one being a data loader.
+Replicating code didn't seem smart to me. 
+-CJ
+
 ## Introduction
 
 This assignment uses data from
